@@ -1,7 +1,7 @@
 # Mushroom Eternal
 
 ## Description
-Mushroom Eternal d is designed to help players effectively buy and sell items within the Hypixel Skyblock Auction House. This mod automates various aspects of the flipping process, allowing users to maximize their profits and minimize their time spent manually searching for deals. With features like price tracking, automated bidding, and user-friendly settings, this mod enhances the gameplay experience for dedicated players. This mod uses highly complicated algorithms to ensure the best flips are found.
+Mushroom Eternal is designed to help players effectively buy and sell items within the Hypixel Skyblock Auction House. This mod automates various aspects of the flipping process, allowing users to maximize their profits and minimize their time spent manually searching for deals. With features like price tracking, automated bidding, and user-friendly settings, this mod enhances the gameplay experience for dedicated players. This mod uses highly complicated algorithms to ensure the best flips are found.
 
 ## Features
 - **Price Tracking**: Monitor item prices in real-time and receive alerts when auctions are detected with a high profit margin. 
